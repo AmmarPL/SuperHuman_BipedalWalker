@@ -1,4 +1,4 @@
-# Exploration of Imitation Learning Techniques in OpenAI Gym Environments
+# Imitation Learning for Superhuman Performance
 
 <p align="center">
   <img src="/Assets/great.gif" width="30%" alt="Superhuman Imitation Learning - Great Performance" />
