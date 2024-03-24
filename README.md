@@ -10,20 +10,7 @@ To set up the necessary environment for this project, follow these steps:
 
    First, you need to install the OpenAI Gym package. You can do this using pip:
 
-# Exploration of Imitation Learning Techniques in OpenAI Gym Environments
-
-This project attempts to implement and extend the methodologies discussed in the paper ["Towards Uniformly Superhuman Autonomy via Subdominance Minimization"](https://proceedings.mlr.press/v162/ziebart22a/ziebart22a.pdf), specifically applying the concepts to the OpenAI Gym game called Bipedal Walker. The goal was to explore the feasibility of achieving superhuman performance in the game through advanced imitation learning techniques.
-
-## Installation
-
-To set up the necessary environment for this project, follow these steps:
-
-**Install OpenAI Gym:**
-
-   First, you need to install the OpenAI Gym package. You can do this using pip:
-
 pip install gym
-
 
 **Replace Gym Files:**
 
