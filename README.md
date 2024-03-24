@@ -20,7 +20,6 @@ After installing the OpenAI Gym, you'll need to replace some of its files with t
 - `evaluation.py`
 - `on_policy_algorithm.py`
 - `ppo.py`
-- `superhuman_imitation.py`
 
 **Prepare the Models:**
 
