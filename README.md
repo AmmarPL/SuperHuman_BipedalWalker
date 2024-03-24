@@ -1,6 +1,6 @@
 # Exploration of Imitation Learning Techniques in OpenAI Gym Environments
 
-![Superhuman Imitation Learning Demonstration](/Assets/great.mp4) 
+![Superhuman Imitation Learning Demonstration](/Assets/great.gif) ![Superhuman Imitation Learning Demonstration](/Assets/no_fall.gif) ![Superhuman Imitation Learning Demonstration](/Assets/no_energy_waste.gif) 
 
 This project attempts to implement and extend the methodologies discussed in the paper ["Towards Uniformly Superhuman Autonomy via Subdominance Minimization"](https://proceedings.mlr.press/v162/ziebart22a/ziebart22a.pdf), specifically applying the concepts to the OpenAI Gym game called Bipedal Walker instead of applying it on a mouse cursor task as the paper did.
 
